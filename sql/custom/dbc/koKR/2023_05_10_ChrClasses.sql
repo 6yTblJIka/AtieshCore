@@ -1,0 +1,10 @@
+UPDATE dbc_chrclasses SET Name_Lang_koKR='전사', Name_Female_Lang_koKR='', Name_Male_Lang_koKR='' WHERE ID=1;
+UPDATE dbc_chrclasses SET Name_Lang_koKR='성기사', Name_Female_Lang_koKR='', Name_Male_Lang_koKR='' WHERE ID=2;
+UPDATE dbc_chrclasses SET Name_Lang_koKR='사냥꾼', Name_Female_Lang_koKR='', Name_Male_Lang_koKR='' WHERE ID=3;
+UPDATE dbc_chrclasses SET Name_Lang_koKR='도적', Name_Female_Lang_koKR='', Name_Male_Lang_koKR='' WHERE ID=4;
+UPDATE dbc_chrclasses SET Name_Lang_koKR='사제', Name_Female_Lang_koKR='', Name_Male_Lang_koKR='' WHERE ID=5;
+UPDATE dbc_chrclasses SET Name_Lang_koKR='죽음의 기사', Name_Female_Lang_koKR='', Name_Male_Lang_koKR='' WHERE ID=6;
+UPDATE dbc_chrclasses SET Name_Lang_koKR='주술사', Name_Female_Lang_koKR='', Name_Male_Lang_koKR='' WHERE ID=7;
+UPDATE dbc_chrclasses SET Name_Lang_koKR='마법사', Name_Female_Lang_koKR='', Name_Male_Lang_koKR='' WHERE ID=8;
+UPDATE dbc_chrclasses SET Name_Lang_koKR='흑마법사', Name_Female_Lang_koKR='', Name_Male_Lang_koKR='' WHERE ID=9;
+UPDATE dbc_chrclasses SET Name_Lang_koKR='드루이드', Name_Female_Lang_koKR='', Name_Male_Lang_koKR='' WHERE ID=11;

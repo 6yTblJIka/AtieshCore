@@ -1,0 +1,16 @@
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='없음' WHERE ID=0;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='화살' WHERE ID=1;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='탄약' WHERE ID=2;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='영혼의 조각' WHERE ID=3;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='가죽세공용 물품' WHERE ID=4;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='주문각인 물품' WHERE ID=5;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='약초' WHERE ID=6;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='마법부여 재료' WHERE ID=7;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='기계공학 용품' WHERE ID=8;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='열쇠' WHERE ID=9;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='보석' WHERE ID=10;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='채광 용품' WHERE ID=11;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='귀속 장비' WHERE ID=12;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='애완동물' WHERE ID=13;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='교환 증표' WHERE ID=14;
+UPDATE dbc_itembagfamily SET Name_Lang_koKR='퀘스트 아이템' WHERE ID=15;

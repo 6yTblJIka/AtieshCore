@@ -1,0 +1,13 @@
+UPDATE dbc_creaturetype SET Name_Lang_koKR='야수' WHERE ID=1;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='용족' WHERE ID=2;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='악마' WHERE ID=3;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='정령' WHERE ID=4;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='거인' WHERE ID=5;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='언데드' WHERE ID=6;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='인간형' WHERE ID=7;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='동물' WHERE ID=8;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='기계' WHERE ID=9;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='기타' WHERE ID=10;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='토템' WHERE ID=11;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='애완동물' WHERE ID=12;
+UPDATE dbc_creaturetype SET Name_Lang_koKR='가스' WHERE ID=13;

@@ -1,0 +1,16 @@
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='無' WHERE ID=0;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='箭矢' WHERE ID=1;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='子彈' WHERE ID=2;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='靈魂裂片' WHERE ID=3;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='製皮補給品' WHERE ID=4;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='銘文補給品' WHERE ID=5;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='草藥' WHERE ID=6;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='附魔補給品' WHERE ID=7;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='工程補給品' WHERE ID=8;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='鑰匙' WHERE ID=9;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='寶石' WHERE ID=10;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='採礦補給品' WHERE ID=11;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='靈魂綁定物品' WHERE ID=12;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='小寵物' WHERE ID=13;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='兌換通貨' WHERE ID=14;
+UPDATE dbc_itembagfamily SET Name_Lang_zhTW='任務物品' WHERE ID=15;

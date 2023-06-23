@@ -1,0 +1,16 @@
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='NADA' WHERE ID=0;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Flechas' WHERE ID=1;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Balas' WHERE ID=2;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Fragmentos de almas' WHERE ID=3;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Suministros de peletería' WHERE ID=4;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Suministros de inscripción' WHERE ID=5;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Hierbas' WHERE ID=6;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Encantamiento' WHERE ID=7;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Ingeniería' WHERE ID=8;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Llaves' WHERE ID=9;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Gemas' WHERE ID=10;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Suministros de minería' WHERE ID=11;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Equipo ligado al alma' WHERE ID=12;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Mascotas de vanidad' WHERE ID=13;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Monedas' WHERE ID=14;
+UPDATE dbc_itembagfamily SET Name_Lang_esMX='Objetos de misión' WHERE ID=15;

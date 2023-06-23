@@ -1,0 +1,10 @@
+UPDATE dbc_chrclasses SET Name_Lang_esMX='Guerrero', Name_Female_Lang_esMX='Guerrera', Name_Male_Lang_esMX='Guerrero' WHERE ID=1;
+UPDATE dbc_chrclasses SET Name_Lang_esMX='Paladín', Name_Female_Lang_esMX='Paladín', Name_Male_Lang_esMX='Paladín' WHERE ID=2;
+UPDATE dbc_chrclasses SET Name_Lang_esMX='Cazador', Name_Female_Lang_esMX='Cazadora', Name_Male_Lang_esMX='Cazador' WHERE ID=3;
+UPDATE dbc_chrclasses SET Name_Lang_esMX='Pícaro', Name_Female_Lang_esMX='Pícara', Name_Male_Lang_esMX='Pícaro' WHERE ID=4;
+UPDATE dbc_chrclasses SET Name_Lang_esMX='Sacerdote', Name_Female_Lang_esMX='Sacerdotisa', Name_Male_Lang_esMX='Sacerdote' WHERE ID=5;
+UPDATE dbc_chrclasses SET Name_Lang_esMX='Caballero de la Muerte', Name_Female_Lang_esMX='Caballero de la Muerte', Name_Male_Lang_esMX='Caballero de la Muerte' WHERE ID=6;
+UPDATE dbc_chrclasses SET Name_Lang_esMX='Chamán', Name_Female_Lang_esMX='Chamán', Name_Male_Lang_esMX='Chamán' WHERE ID=7;
+UPDATE dbc_chrclasses SET Name_Lang_esMX='Mago', Name_Female_Lang_esMX='Maga', Name_Male_Lang_esMX='Mago' WHERE ID=8;
+UPDATE dbc_chrclasses SET Name_Lang_esMX='Brujo', Name_Female_Lang_esMX='Bruja', Name_Male_Lang_esMX='Brujo' WHERE ID=9;
+UPDATE dbc_chrclasses SET Name_Lang_esMX='Druida', Name_Female_Lang_esMX='Druida', Name_Male_Lang_esMX='Druida' WHERE ID=11;

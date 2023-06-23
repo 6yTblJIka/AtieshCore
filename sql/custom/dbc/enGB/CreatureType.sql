@@ -1,0 +1,13 @@
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Beast' WHERE ID=1;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Dragonkin' WHERE ID=2;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Demon' WHERE ID=3;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Elemental' WHERE ID=4;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Giant' WHERE ID=5;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Undead' WHERE ID=6;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Humanoid' WHERE ID=7;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Critter' WHERE ID=8;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Mechanical' WHERE ID=9;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Not specified' WHERE ID=10;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Totem' WHERE ID=11;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Non-combat Pet' WHERE ID=12;
+UPDATE dbc_creaturetype SET Name_Lang_enGB='Gas Cloud' WHERE ID=13;

@@ -1,0 +1,21 @@
+install:
+  script:
+    - mysql -uroot -e 'drop database if exists test_mysql;'
+    - mysql -uroot -e 'drop database if exists auth;'
+    - mysql -uroot -e 'drop database if exists characters;'
+    - mysql -uroot -e 'drop database if exists world;'
+    - mysql -uroot -e 'create database test_mysql;'
+    - mysql -uroot -e 'create database auth;'
+    - mysql -uroot -e 'create database characters;'
+    - mysql -uroot -e 'create database world;'
+    - mkdir build
+    - cd build
+    - cmake ../ -DWITH_WARNINGS=1 -DWITH_COREDEBUG=0 -DTOOLS=1 -DSCRIPTS=static -DSERVERS=1 -DNOJEM=0 -DCMAKE_BUILD_TYPE=Release
+    - cd ..
+    - chmod +x contrib/check_updates.sh
+    - mysql -uroot auth < sql/base/auth_database.sql
+    - mysql -uroot characters < sql/base/characters_database.sql
+    - mysql -uroot world < sql/base/dev/world_database.sql
+    - cd build
+    - make -j 20
+    - make install

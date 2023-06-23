@@ -1,0 +1,10 @@
+UPDATE dbc_chrclasses SET Name_Lang_enCN='战士', Name_Female_Lang_enCN='', Name_Male_Lang_enCN='' WHERE ID=1;
+UPDATE dbc_chrclasses SET Name_Lang_enCN='圣骑士', Name_Female_Lang_enCN='', Name_Male_Lang_enCN='' WHERE ID=2;
+UPDATE dbc_chrclasses SET Name_Lang_enCN='猎人', Name_Female_Lang_enCN='', Name_Male_Lang_enCN='' WHERE ID=3;
+UPDATE dbc_chrclasses SET Name_Lang_enCN='潜行者', Name_Female_Lang_enCN='', Name_Male_Lang_enCN='' WHERE ID=4;
+UPDATE dbc_chrclasses SET Name_Lang_enCN='牧师', Name_Female_Lang_enCN='', Name_Male_Lang_enCN='' WHERE ID=5;
+UPDATE dbc_chrclasses SET Name_Lang_enCN='死亡骑士', Name_Female_Lang_enCN='', Name_Male_Lang_enCN='' WHERE ID=6;
+UPDATE dbc_chrclasses SET Name_Lang_enCN='萨满祭司', Name_Female_Lang_enCN='', Name_Male_Lang_enCN='' WHERE ID=7;
+UPDATE dbc_chrclasses SET Name_Lang_enCN='法师', Name_Female_Lang_enCN='', Name_Male_Lang_enCN='' WHERE ID=8;
+UPDATE dbc_chrclasses SET Name_Lang_enCN='术士', Name_Female_Lang_enCN='', Name_Male_Lang_enCN='' WHERE ID=9;
+UPDATE dbc_chrclasses SET Name_Lang_enCN='德鲁伊', Name_Female_Lang_enCN='', Name_Male_Lang_enCN='' WHERE ID=11;

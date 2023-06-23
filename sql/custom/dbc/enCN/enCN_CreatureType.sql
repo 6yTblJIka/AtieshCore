@@ -1,0 +1,13 @@
+UPDATE dbc_creaturetype SET Name_Lang_enCN='野兽' WHERE ID=1;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='龙类' WHERE ID=2;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='恶魔' WHERE ID=3;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='元素生物' WHERE ID=4;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='巨人' WHERE ID=5;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='亡灵' WHERE ID=6;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='人型生物' WHERE ID=7;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='小动物' WHERE ID=8;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='机械' WHERE ID=9;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='未指定' WHERE ID=10;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='图腾' WHERE ID=11;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='非战斗宠物' WHERE ID=12;
+UPDATE dbc_creaturetype SET Name_Lang_enCN='气体云雾' WHERE ID=13;

@@ -1,0 +1,13 @@
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='野獸' WHERE ID=1;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='龍類' WHERE ID=2;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='惡魔' WHERE ID=3;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='元素生物' WHERE ID=4;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='巨人' WHERE ID=5;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='不死族' WHERE ID=6;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='人型生物' WHERE ID=7;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='小動物' WHERE ID=8;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='機械' WHERE ID=9;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='不明' WHERE ID=10;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='圖騰' WHERE ID=11;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='非戰鬥寵物' WHERE ID=12;
+UPDATE dbc_creaturetype SET Name_Lang_zhTW='氣體雲' WHERE ID=13;

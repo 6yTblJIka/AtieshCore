@@ -1,0 +1,13 @@
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Bestia' WHERE ID=1;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Dragonante' WHERE ID=2;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Demonio' WHERE ID=3;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Elemental' WHERE ID=4;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Gigante' WHERE ID=5;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='No-muerto' WHERE ID=6;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Humanoide' WHERE ID=7;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Alimaña' WHERE ID=8;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Mecánico' WHERE ID=9;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Sin especificar' WHERE ID=10;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Tótem' WHERE ID=11;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Mascota mansa' WHERE ID=12;
+UPDATE dbc_creaturetype SET Name_Lang_esMX='Nube de gas' WHERE ID=13;

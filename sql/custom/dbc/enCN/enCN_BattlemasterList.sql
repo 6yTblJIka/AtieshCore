@@ -1,0 +1,13 @@
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='奥特兰克山谷' WHERE ID=1;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='战歌峡谷' WHERE ID=2;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='阿拉希盆地' WHERE ID=3;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='纳格兰竞技场' WHERE ID=4;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='刀锋竞技场' WHERE ID=5;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='所有竞技场' WHERE ID=6;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='风暴之眼' WHERE ID=7;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='洛丹伦废墟' WHERE ID=8;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='远古海滩' WHERE ID=9;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='达拉然下水道' WHERE ID=10;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='勇气竞技场' WHERE ID=11;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='征服之岛' WHERE ID=30;
+UPDATE dbc_battlemasterlist SET Name_Lang_enCN='随机战场' WHERE ID=32;

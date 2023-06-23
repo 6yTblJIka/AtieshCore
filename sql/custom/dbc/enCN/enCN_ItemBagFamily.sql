@@ -1,0 +1,16 @@
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='无' WHERE ID=0;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='箭矢' WHERE ID=1;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='弹药' WHERE ID=2;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='灵魂碎片' WHERE ID=3;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='制皮' WHERE ID=4;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='铭文材料' WHERE ID=5;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='草药' WHERE ID=6;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='附魔材料' WHERE ID=7;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='工程学材料' WHERE ID=8;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='钥匙' WHERE ID=9;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='宝石' WHERE ID=10;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='矿物' WHERE ID=11;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='已绑定装备' WHERE ID=12;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='小宠物' WHERE ID=13;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='货币物品' WHERE ID=14;
+UPDATE dbc_itembagfamily SET Name_Lang_enCN='任务物品' WHERE ID=15;

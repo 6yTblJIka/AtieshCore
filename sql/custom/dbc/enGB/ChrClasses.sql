@@ -1,0 +1,10 @@
+UPDATE dbc_chrclasses SET Name_Lang_enGB='Warrior', Name_Female_Lang_enGB='', Name_Male_Lang_enGB='' WHERE ID=1;
+UPDATE dbc_chrclasses SET Name_Lang_enGB='Paladin', Name_Female_Lang_enGB='', Name_Male_Lang_enGB='' WHERE ID=2;
+UPDATE dbc_chrclasses SET Name_Lang_enGB='Hunter', Name_Female_Lang_enGB='', Name_Male_Lang_enGB='' WHERE ID=3;
+UPDATE dbc_chrclasses SET Name_Lang_enGB='Rogue', Name_Female_Lang_enGB='', Name_Male_Lang_enGB='' WHERE ID=4;
+UPDATE dbc_chrclasses SET Name_Lang_enGB='Priest', Name_Female_Lang_enGB='', Name_Male_Lang_enGB='' WHERE ID=5;
+UPDATE dbc_chrclasses SET Name_Lang_enGB='Death Knight', Name_Female_Lang_enGB='', Name_Male_Lang_enGB='' WHERE ID=6;
+UPDATE dbc_chrclasses SET Name_Lang_enGB='Shaman', Name_Female_Lang_enGB='', Name_Male_Lang_enGB='' WHERE ID=7;
+UPDATE dbc_chrclasses SET Name_Lang_enGB='Mage', Name_Female_Lang_enGB='', Name_Male_Lang_enGB='' WHERE ID=8;
+UPDATE dbc_chrclasses SET Name_Lang_enGB='Warlock', Name_Female_Lang_enGB='', Name_Male_Lang_enGB='' WHERE ID=9;
+UPDATE dbc_chrclasses SET Name_Lang_enGB='Druid', Name_Female_Lang_enGB='', Name_Male_Lang_enGB='' WHERE ID=11;

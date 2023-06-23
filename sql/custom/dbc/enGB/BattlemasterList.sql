@@ -1,0 +1,13 @@
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Alterac Valley' WHERE ID=1;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Warsong Gulch' WHERE ID=2;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Arathi Basin' WHERE ID=3;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Nagrand Arena' WHERE ID=4;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Blade''s Edge Arena' WHERE ID=5;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='All Arenas' WHERE ID=6;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Eye of the Storm' WHERE ID=7;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Ruins of Lordaeron' WHERE ID=8;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Strand of the Ancients' WHERE ID=9;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Dalaran Sewers' WHERE ID=10;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='The Ring of Valor' WHERE ID=11;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Isle of Conquest' WHERE ID=30;
+UPDATE dbc_battlemasterlist SET Name_Lang_enGB='Random Battleground' WHERE ID=32;

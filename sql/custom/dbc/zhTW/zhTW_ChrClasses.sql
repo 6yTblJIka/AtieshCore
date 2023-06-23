@@ -1,0 +1,10 @@
+UPDATE dbc_chrclasses SET Name_Lang_zhTW='戰士', Name_Female_Lang_zhTW='', Name_Male_Lang_zhTW='' WHERE ID=1;
+UPDATE dbc_chrclasses SET Name_Lang_zhTW='聖騎士', Name_Female_Lang_zhTW='', Name_Male_Lang_zhTW='' WHERE ID=2;
+UPDATE dbc_chrclasses SET Name_Lang_zhTW='獵人', Name_Female_Lang_zhTW='', Name_Male_Lang_zhTW='' WHERE ID=3;
+UPDATE dbc_chrclasses SET Name_Lang_zhTW='盜賊', Name_Female_Lang_zhTW='', Name_Male_Lang_zhTW='' WHERE ID=4;
+UPDATE dbc_chrclasses SET Name_Lang_zhTW='牧師', Name_Female_Lang_zhTW='', Name_Male_Lang_zhTW='' WHERE ID=5;
+UPDATE dbc_chrclasses SET Name_Lang_zhTW='死亡騎士', Name_Female_Lang_zhTW='', Name_Male_Lang_zhTW='' WHERE ID=6;
+UPDATE dbc_chrclasses SET Name_Lang_zhTW='薩滿', Name_Female_Lang_zhTW='', Name_Male_Lang_zhTW='' WHERE ID=7;
+UPDATE dbc_chrclasses SET Name_Lang_zhTW='法師', Name_Female_Lang_zhTW='', Name_Male_Lang_zhTW='' WHERE ID=8;
+UPDATE dbc_chrclasses SET Name_Lang_zhTW='術士', Name_Female_Lang_zhTW='', Name_Male_Lang_zhTW='' WHERE ID=9;
+UPDATE dbc_chrclasses SET Name_Lang_zhTW='德魯伊', Name_Female_Lang_zhTW='', Name_Male_Lang_zhTW='' WHERE ID=11;

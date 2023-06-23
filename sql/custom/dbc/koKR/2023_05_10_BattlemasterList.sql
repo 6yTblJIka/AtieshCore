@@ -1,0 +1,13 @@
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='알터랙 계곡' WHERE ID=1;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='전쟁노래 협곡' WHERE ID=2;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='아라시 분지' WHERE ID=3;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='나그란드 투기장' WHERE ID=4;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='칼날 산맥 투기장' WHERE ID=5;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='모든 투기장' WHERE ID=6;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='폭풍의 눈' WHERE ID=7;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='로데론의 폐허' WHERE ID=8;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='고대의 해안' WHERE ID=9;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='달라란 투기장' WHERE ID=10;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='용맹의 투기장' WHERE ID=11;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='정복의 섬' WHERE ID=30;
+UPDATE dbc_battlemasterlist SET Name_Lang_koKR='무작위 전장' WHERE ID=32;

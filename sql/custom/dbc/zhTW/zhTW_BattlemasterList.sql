@@ -1,0 +1,13 @@
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='奧特蘭克山谷' WHERE ID=1;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='戰歌峽谷' WHERE ID=2;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='阿拉希盆地' WHERE ID=3;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='納葛蘭競技場' WHERE ID=4;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='劍刃競技場' WHERE ID=5;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='所有競技場' WHERE ID=6;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='暴風之眼' WHERE ID=7;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='羅德隆廢墟' WHERE ID=8;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='遠祖灘頭' WHERE ID=9;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='達拉然下水道' WHERE ID=10;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='勇武之環' WHERE ID=11;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='征服之島' WHERE ID=30;
+UPDATE dbc_battlemasterlist SET Name_Lang_zhTW='隨機戰場' WHERE ID=32;

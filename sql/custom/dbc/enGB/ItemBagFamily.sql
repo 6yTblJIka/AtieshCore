@@ -1,0 +1,16 @@
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='NONE' WHERE ID=0;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Arrows' WHERE ID=1;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Bullets' WHERE ID=2;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Soul Shards' WHERE ID=3;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Leatherworking Supplies' WHERE ID=4;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Inscription Supplies' WHERE ID=5;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Herbs' WHERE ID=6;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Enchanting Supplies' WHERE ID=7;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Engineering Supplies' WHERE ID=8;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Keys' WHERE ID=9;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Gems' WHERE ID=10;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Mining Supplies' WHERE ID=11;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Soulbound Equipment' WHERE ID=12;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Vanity Pets' WHERE ID=13;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Currency Tokens' WHERE ID=14;
+UPDATE dbc_itembagfamily SET Name_Lang_enGB='Quest Items' WHERE ID=15;
